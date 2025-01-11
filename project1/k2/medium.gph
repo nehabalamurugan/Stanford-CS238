@@ -1,0 +1,11 @@
+residualsugar,volatileacidity
+quality,volatileacidity
+color,citricacid
+chlorides,residualsugar
+totalsulfurdioxide,residualsugar
+quality,chlorides
+totalsulfurdioxide,freesulfurdioxide
+fixedacidity,totalsulfurdioxide
+color,sulphates
+fixedacidity,alcohol
+citricacid,quality

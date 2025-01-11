@@ -1,0 +1,15 @@
+color,fixedacidity
+citricacid,fixedacidity
+fixedacidity,volatileacidity
+freesulfurdioxide,volatileacidity
+totalsulfurdioxide,citricacid
+freesulfurdioxide,residualsugar
+totalsulfurdioxide,chlorides
+fixedacidity,freesulfurdioxide
+color,density
+citricacid,density
+fixedacidity,pH
+chlorides,sulphates
+quality,alcohol
+fixedacidity,quality
+totalsulfurdioxide,quality
